@@ -1,4 +1,4 @@
-export function notNumber(value) {
+export function notANumber(value) {
     return isNaN(value) || value == ""
 }
 
